@@ -1,0 +1,12 @@
+@extends('layouts.master')
+
+@section('content')
+   <div class="container-fluid">
+     <div class="row">
+       <div class="col-md-12">
+       <h1>About</h1>
+       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur dolorem nihil qui fugiat consequuntur consectetur, sequi totam consequatur. Facere, perspiciatis. Nostrum aut, quae dolorem tempora libero illum repellendus fuga vero, sit maxime delectus perspiciatis labore distinctio! Repellat quidem magnam earum temporibus quibusdam saepe iure ipsa a nemo quae, blanditiis dolor repellendus eum? Sed, natus! A accusamus aliquam provident rem nesciunt quam voluptates, corporis eos maxime ullam at. Vero repellendus quam officiis ullam fugiat, corporis pariatur qui ratione ab accusantium incidunt eos. Illum veritatis aut doloremque, vero reiciendis fuga nemo maiores, saepe deserunt fugiat, sapiente amet quibusdam perspiciatis odio suscipit illo! Voluptatum nemo magnam dolorem ipsa atque beatae, tempore nesciunt obcaecati perferendis soluta expedita optio perspiciatis praesentium aliquid officia totam minus cupiditate laborum repudiandae odit, adipisci quasi facilis explicabo ex? Fugit nulla molestiae sequi. Sit repudiandae distinctio natus aliquam dicta eum porro deserunt magnam eveniet non facere quaerat, eaque consequuntur vero voluptatum praesentium illo, accusamus aperiam recusandae optio veniam laborum. Assumenda aliquam officiis ipsa magnam obcaecati accusantium aut voluptates non rem unde esse quo, veritatis nesciunt voluptas aperiam illum placeat qui itaque? Quaerat, sed veniam. In, fugit modi doloribus temporibus quaerat itaque at. Suscipit delectus hic fugit similique rem quos a omnis, id dolorum tempore modi in nulla explicabo animi ipsam repellendus vitae, autem veniam? Ea accusamus, molestias qui nihil cupiditate quos officiis pariatur assumenda aliquid! Nesciunt minus atque commodi itaque unde nihil maxime doloribus sequi, expedita vero, quidem, deserunt delectus amet? Earum repudiandae enim tenetur tempora distinctio placeat deserunt optio labore iusto eum odit, inventore soluta corrupti nesciunt rem suscipit aut minus nostrum error modi unde! Voluptates nihil, et officia accusantium iure delectus, amet distinctio saepe dolor soluta quos cumque. Iste excepturi quaerat dolore eveniet cumque eaque cum quidem corporis error itaque suscipit, sint unde, quae aliquam, beatae reiciendis voluptas.</p>
+       </div>
+     </div>
+   </div>       
+@endsection

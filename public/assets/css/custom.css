@@ -1,0 +1,22 @@
+body{
+    padding-top:60px;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    width:25%;
+    height:100%;
+}
+
+.thumbnail,.thumbnail p{
+    text-align: center;
+}
+
+.thumbnail img{
+    width:60%;
+    height:200px;
+    border: 2px solid lightgray;
+}
